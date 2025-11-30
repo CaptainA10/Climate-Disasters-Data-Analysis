@@ -1,0 +1,27 @@
+Objectif du Projet
+
+L'objectif de ce projet est d'analyser les relations potentielles entre les événements climatiques et les catastrophes naturelles sur une période allant de 1900 à 2021. Pour cela, des données historiques sur les catastrophes naturelles ont été combinées avec des données climatiques générées de manière factice afin d'examiner les évolutions et de détecter d'éventuelles corrélations. Ce projet permet de mieux comprendre l'impact des changements climatiques sur la fréquence et l'intensité des catastrophes naturelles et offre une base pour des analyses plus approfondies dans un contexte de changement climatique global.
+
+Données Utilisées
+
+Les données utilisées dans ce projet proviennent de deux sources principales :
+
+Données des catastrophes naturelles : Le fichier 1970-2021_DISASTERSet 1900_2021_DISASTERS.xlsx a été utilisé pour charger des informations sur divers types de catastrophes naturelles (ouragans, inondations, tremblements de terre, etc.), avec des dates et des informations géographiques. Ce fichier a été nettoyé et enrichi avec des données climatiques pour permettre des comparaisons pertinentes.
+
+Données climatiques : Des données climatiques synthétiques ont été générées pour la période 1900-2021, incluant des variables telles que la température, le CO2, le niveau des mers et les précipitations. Ces données ont été utilisées pour fournir un contexte climatique à chaque année et ont été comparées aux données des catastrophes naturelles pour analyser leur évolution.
+
+Bibliothèques Utilisées
+
+Pour le traitement, l'analyse et la visualisation des données, les bibliothèques Python suivantes ont été utilisées :
+
+pandas : Pour le traitement des données, y compris le chargement, la manipulation et la fusion des datasets. Cette bibliothèque est essentielle pour gérer des structures de données comme les DataFrames et effectuer des analyses statistiques.
+
+matplotlib.pyplot : Pour la création de visualisations graphiques, telles que les courbes de tendance, les histogrammes et les graphiques en ligne, afin d'illustrer les évolutions des catastrophes et des variables climatiques.
+
+seaborn : Utilisée pour des visualisations statistiques plus avancées, notamment les cartes de corrélation et les boxplots pour analyser les relations entre différentes variables.
+
+numpy : Pour générer des données numériques, notamment les données climatiques synthétiques et les calculs associés (par exemple, les moyennes, les tendances).
+
+scipy : Pour effectuer des tests statistiques, en particulier pour l'analyse des corrélations entre les variables climatiques et les catastrophes naturelles.
+
+datetime : Pour la gestion des dates et l'extraction d'informations temporelles à partir des données des catastrophes naturelles.
