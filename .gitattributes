@@ -1,0 +1,4 @@
+# .gitattributes
+# Forcer UTF-8 pour les fichiers Markdown
+*.md text working-tree-encoding=UTF-8
+

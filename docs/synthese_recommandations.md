@@ -1,29 +1,29 @@
-# Synthèse des recommandations
+# SynthÃ¨se des recommandations
 
-## Scénarios climatiques
-|                                    |   Année d'atteinte |   Augmentation catastrophes (%) |   Réduction CO2 nécessaire (%) |
+## ScÃ©narios climatiques
+|                                    |   AnnÃ©e d'atteinte |   Augmentation catastrophes (%) |   RÃ©duction CO2 nÃ©cessaire (%) |
 |:-----------------------------------|-------------------:|--------------------------------:|-------------------------------:|
-| +1.5°C (tendance actuelle)         |            1987.8  |                            22.5 |                             30 |
-| +2.0°C (tendance actuelle)         |            1997.07 |                            30   |                             40 |
-| +3.0°C (tendance actuelle)         |            2015.61 |                            45   |                             60 |
-| +1.5°C (avec Mobilité douce)       |            1988.07 |                            22.5 |                             30 |
-| +2.0°C (avec Mobilité douce)       |            1997.42 |                            30   |                             40 |
-| +3.0°C (avec Mobilité douce)       |            2016.13 |                            45   |                             60 |
-| +1.5°C (avec Reforestation)        |            1987.96 |                            22.5 |                             30 |
-| +2.0°C (avec Reforestation)        |            1997.28 |                            30   |                             40 |
-| +3.0°C (avec Reforestation)        |            2015.92 |                            45   |                             60 |
-| +1.5°C (avec Sobriété énergétique) |            1988.17 |                            22.5 |                             30 |
-| +2.0°C (avec Sobriété énergétique) |            1997.56 |                            30   |                             40 |
-| +3.0°C (avec Sobriété énergétique) |            2016.34 |                            45   |                             60 |
+| +1.5Â°C (tendance actuelle)         |            1987.8  |                            22.5 |                             30 |
+| +2.0Â°C (tendance actuelle)         |            1997.07 |                            30   |                             40 |
+| +3.0Â°C (tendance actuelle)         |            2015.61 |                            45   |                             60 |
+| +1.5Â°C (avec MobilitÃ© douce)       |            1988.07 |                            22.5 |                             30 |
+| +2.0Â°C (avec MobilitÃ© douce)       |            1997.42 |                            30   |                             40 |
+| +3.0Â°C (avec MobilitÃ© douce)       |            2016.13 |                            45   |                             60 |
+| +1.5Â°C (avec Reforestation)        |            1987.96 |                            22.5 |                             30 |
+| +2.0Â°C (avec Reforestation)        |            1997.28 |                            30   |                             40 |
+| +3.0Â°C (avec Reforestation)        |            2015.92 |                            45   |                             60 |
+| +1.5Â°C (avec SobriÃ©tÃ© Ã©nergÃ©tique) |            1988.17 |                            22.5 |                             30 |
+| +2.0Â°C (avec SobriÃ©tÃ© Ã©nergÃ©tique) |            1997.56 |                            30   |                             40 |
+| +3.0Â°C (avec SobriÃ©tÃ© Ã©nergÃ©tique) |            2016.34 |                            45   |                             60 |
 
-## Solutions locales recommandées
-|    | Solution                   | Type                 | Coût estimé   | Impact CO2   | Application       |
+## Solutions locales recommandÃ©es
+|    | Solution                   | Type                 | CoÃ»t estimÃ©   | Impact CO2   | Application       |
 |---:|:---------------------------|:---------------------|:--------------|:-------------|:------------------|
-|  0 | Vélo en libre-service      | Mobilité douce       | Moyen         | -5% par an   | Zones urbaines    |
-|  1 | Plantation forêts urbaines | Reforestation        | Faible        | -2% par an   | Tous territoires  |
-|  2 | Rénovation énergétique     | Sobriété énergétique | Élevé         | -8% par an   | Bâtiments publics |
+|  0 | VÃ©lo en libre-service      | MobilitÃ© douce       | Moyen         | -5% par an   | Zones urbaines    |
+|  1 | Plantation forÃªts urbaines | Reforestation        | Faible        | -2% par an   | Tous territoires  |
+|  2 | RÃ©novation Ã©nergÃ©tique     | SobriÃ©tÃ© Ã©nergÃ©tique | Ã‰levÃ©         | -8% par an   | BÃ¢timents publics |
 
 ## Impacts potentiels
-- Réduction de 5-15% des catastrophes climatiques d'ici 2050
-- Économie estimée: 2-5% du PIB en dommages évités
-- Création d'emplois locaux: 3-5 par million investi
+- RÃ©duction de 5-15% des catastrophes climatiques d'ici 2050
+- Ã‰conomie estimÃ©e: 2-5% du PIB en dommages Ã©vitÃ©s
+- CrÃ©ation d'emplois locaux: 3-5 par million investi

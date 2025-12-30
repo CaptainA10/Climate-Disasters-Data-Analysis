@@ -1,0 +1,24 @@
+name: Check UTF-8 encoding
+
+on: [pull_request, push]
+
+jobs:
+  encoding:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Find non-UTF8 markdown files
+        run: |
+          set -euo pipefail
+          bad=0
+          while IFS= read -r -d '' file; do
+            if ! iconv -f UTF-8 -t UTF-8 "$file" -o /dev/null 2>/dev/null; then
+              echo "Non-UTF8 detected: $file"
+              bad=1
+            fi
+          done < <(find . -type f -name "*.md" -print0)
+          if [ "$bad" -ne 0 ]; then
+            echo "One or more Markdown files are not valid UTF-8."
+            exit 1
+          fi
+
